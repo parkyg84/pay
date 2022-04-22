@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'paydev03'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5077BE288FA34EF2ACFA59166BFB5640 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BFFA914088A4A94B2C36BAF6FD1652A }}
           package: '*.war'
